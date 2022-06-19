@@ -3,3 +3,9 @@
 ___Primeiro Desafio___
 
 *Repositório criado para desafio de projetos*
+
+O Repositório vai ser trabalhado para arquiva conteúdo dos cursos.
+
+Tenho o compromisso de atualiza-lo diaramente apartir data de criação.
+
+Ass. Gilvaldo Nery da Silva
