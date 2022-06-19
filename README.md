@@ -6,6 +6,6 @@ ___Primeiro Desafio___
 
 O Repositório vai ser trabalhado para arquiva conteúdo dos cursos.
 
-Tenho o compromisso de atualiza-lo diaramente apartir data de criação.
+Tenho o compromisso de atualiza-lo diariamente apartir data de criação.
 
 Ass. Gilvaldo Nery da Silva
